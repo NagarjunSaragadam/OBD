@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.kpcl.ATTP" version="3.0.0">
-    <name>ATTP</name>
-    <description>Article Tracking</description>
+    <name>OBD</name>
+    <description>KPCL OBD</description>
     <author href="http://www.krishnapatnamport.com" email="epms_support@krishnapatnamport.com">Krishnapatnam Port Company LTD.</author>
     <content src="Home.html"/>
     <preference name="permissions" value="none"/>
